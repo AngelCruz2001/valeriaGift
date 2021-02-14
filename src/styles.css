@@ -1,0 +1,8 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+input:focus {
+    border: none;
+}
+
